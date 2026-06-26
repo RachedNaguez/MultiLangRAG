@@ -2,6 +2,10 @@
 
 Multilingual Retrieval-Augmented Generation (RAG) system. Ask questions in any language and get answers from a multilingual knowledge base powered by cross-lingual embeddings.
 
+<p align="center">
+  <img src="docs/MultiLangRAG.png" alt="MultiLangRAG Architecture" width="700">
+</p>
+
 ## Features
 
 - **Multilingual embeddings** — `paraphrase-multilingual-MiniLM-L12-v2` maps 50+ languages into a shared vector space
